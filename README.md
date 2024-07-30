@@ -1,6 +1,6 @@
 👋 Hello, I'm Avi Bhardwaj!
 About Me
-🎓 17-year-old high school senior with a passion for problem-solving and innovation.
+🎓 17-year-old high school with a passion for problem-solving and innovation.
 🌟 Academically bright and innovative thinker, always eager to learn and explore new technologies.
 📊 Knowledge of BI tools such as Tableau and Power BI, for data visualization and analysis.
 💻 Good knowledge of Python and VBA, with a knack for automating tasks and building practical solutions and solving problems.
